@@ -17,6 +17,17 @@
 <img width="1470" alt="Screenshot 2024-10-18 at 13 13 27" src="https://github.com/user-attachments/assets/b33668f1-0700-407e-b5ea-adb3c777f3e1">
 
 ### **GCP**
+### Choose a Cloud SQL Edition
+<img width="516" alt="Screenshot 2024-10-18 at 13 44 23" src="https://github.com/user-attachments/assets/e81e57b7-4aec-4f50-ac43-75241a91730b">
+
+### GCP similarly asks for a database (instance) name, password, and region. GCP has a Sandbox environment while Azure only has Production or Development
+<img width="538" alt="Screenshot 2024-10-18 at 13 44 37" src="https://github.com/user-attachments/assets/37753799-4d58-4f8e-9450-dd4fda931ead">
+
+### Other configurations are very similar to what is found in Azure but in a more simple format
+<img width="521" alt="Screenshot 2024-10-18 at 13 47 22" src="https://github.com/user-attachments/assets/78830e10-d67a-4235-bde0-4a512e1d79cd">
+
+### Your GCP instance is created!
+<img width="1406" alt="Screenshot 2024-10-18 at 13 49 01" src="https://github.com/user-attachments/assets/6bd4e631-40bb-4b6b-b344-72dc88eb3d78">
 
 ## 2 - BigQuery dataset creation and query results
 
