@@ -3,7 +3,7 @@
 ### Add resource group, database name, and server
 <img width="745" alt="Screenshot 2024-10-18 at 12 59 26" src="https://github.com/user-attachments/assets/60068356-8e5f-41d1-a4b6-a7575ca3bace">
 
-#### Create a new server if needed
+### Create a new server if needed
 <img width="770" alt="Screenshot 2024-10-18 at 12 51 00" src="https://github.com/user-attachments/assets/1c2cbf60-dae5-4a4c-8ae4-1ccb07e87abe">
 
 ### Adjust Networking settings to public endpoint
@@ -30,6 +30,8 @@
 <img width="1406" alt="Screenshot 2024-10-18 at 13 49 01" src="https://github.com/user-attachments/assets/6bd4e631-40bb-4b6b-b344-72dc88eb3d78">
 
 ## 2 - BigQuery dataset creation and query results
+<img width="1470" alt="Screenshot 2024-10-18 at 14 07 38" src="https://github.com/user-attachments/assets/77427741-7d08-4242-9fb8-afdf0e3f00c3">
+<img width="512" alt="Screenshot 2024-10-18 at 14 12 16" src="https://github.com/user-attachments/assets/34e0aeae-fe47-44e6-a629-ee9c2b6885a2">
 
 ## 3 - Documentation of the monitoring process for both Azure MySQL and GCP MySQL/BigQuery
 ### **Azure**
@@ -42,6 +44,14 @@
 <img width="1462" alt="Screenshot 2024-10-18 at 13 32 26" src="https://github.com/user-attachments/assets/324618ed-4623-4644-ba82-f784647a3272">
 
 ### **GCP**
+### In your GCP instance, go to system insights to view important metrics 
+<img width="1188" alt="Screenshot 2024-10-18 at 14 16 29" src="https://github.com/user-attachments/assets/7b073c71-8016-4e6a-b8ea-d305bb394e4a">
+<img width="569" alt="Screenshot 2024-10-18 at 14 16 56" src="https://github.com/user-attachments/assets/0131f91a-2f0b-4fd3-a243-e0b79e0f7ffe">
+<img width="569" alt="Screenshot 2024-10-18 at 14 17 41" src="https://github.com/user-attachments/assets/b12304f3-57c7-405e-a169-44c29545e7a7">
+
+### Go to Query Insights below it to view information about your queries
+<img width="941" alt="Screenshot 2024-10-18 at 14 19 37" src="https://github.com/user-attachments/assets/4e5fb001-e293-46da-b58d-547aed448b97">
+<img width="568" alt="Screenshot 2024-10-18 at 14 17 33" src="https://github.com/user-attachments/assets/036dcf2e-ba05-42e8-8da2-c162e3779366">
 
 ## 4 - Reflections on the differences between managing databases on Azure and GCP
 Managing databases on Azure and GCP presents distinct approaches. Azure emphasizes integration with Microsoft products through services like Azure SQL Database and Cosmos DB, while GCP focuses on scalability and performance, particularly with Cloud SQL and BigQuery. GCP also appeals to developers with its strong Kubernetes support. Ultimately, the choice depends on ecosystem alignment, specific features, and user familiarity.
